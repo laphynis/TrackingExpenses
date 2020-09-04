@@ -6,7 +6,9 @@ This app uses a csv file to keep track of your spendings. Before running, make s
 In order to run this python file, you need to have installed the libraries being used.
 
 To install matplotlib and pandas, go into the command prompt and type:
-  pip install matplotlib
-  pip install pandas
+
+pip install matplotlib
+
+pip install pandas
 
 To install kivy, visit their website to see how to install kivy and its dependencies https://kivy.org/#download
